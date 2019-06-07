@@ -7,7 +7,7 @@ package com.example.calculadora;
 
 public class Constantes {
 
-    public static final String OPERATOR_MULTI = "x";
+    public static final String OPERATOR_MULTI = "*";
     public static final String OPERATOR_BETWEN = "÷";
     public static final String OPERATOR_SUB = "-";
     public static final String OPERATOR_SUM = "+";
